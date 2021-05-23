@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <graph>
+        <nodes_count type="number">
+            6
+        </nodes_count>
+        <graph_table>
+            <row type="list">- - 4 - 4 -</row>
+            <row type="list">- - 3 3 - -</row>
+            <row type="list">4 3 - 4 2 2</row>
+            <row type="list">- 3 4 - - 3</row>
+            <row type="list">4 - 2 - - -</row>
+            <row type="list">- - 2 3 - -</row>
+        </graph_table>
+    </graph>
+</root>

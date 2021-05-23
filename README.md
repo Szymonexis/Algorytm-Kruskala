@@ -1,9 +1,11 @@
 # Algorytm-Kruskala
 
 <a href="https://en.wikipedia.org/wiki/Kruskal%27s_algorithm">Wikipedia</a><br>
-<a href="https://www.programiz.com/dsa/kruskal-algorithm"> Programiz info on the algorithm </a>
+<a href="https://www.programiz.com/dsa/kruskal-algorithm">Programiz</a>
  
-<pre><b>algorithm</b> Kruskal(<i>G</i>) <b>is</b>
+### Pseudocode:
+<pre>
+<b>algorithm</b> Kruskal(<i>G</i>) <b>is</b>
     F:= ∅
     <b>for each</b> v ∈ G.V <b>do</b>
         MAKE-SET(v)
